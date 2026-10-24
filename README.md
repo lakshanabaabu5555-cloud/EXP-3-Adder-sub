@@ -136,6 +136,9 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 •	Sum = A⊕B, Carry = A.B
 •	Diff = A⊕B, Borrow = A'.B
 
+![Uploading image.png…]()
+
+
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
